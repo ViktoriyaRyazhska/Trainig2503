@@ -3,10 +3,8 @@
 5.Schob lanu shurokopoli
 7.Bylo vudno? bylo chytu,
 8.Jak reve revuchiy
-<<<<<<< HEAD
 12.I lanu i horu
-16.Ja ne znau Boga
-=======
+15.Molitisja...
 16.Ja ne znau Boga
 19.I vrashoy zloy krovy
->>>>>>> 9744db810627501ba5ad0eb941c6e23cbb775163
+
